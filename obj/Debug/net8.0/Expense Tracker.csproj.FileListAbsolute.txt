@@ -144,3 +144,4 @@ C:\Users\marco\dotnetProjects\Expense Tracker\Expense Tracker\obj\Debug\net8.0\r
 C:\Users\marco\dotnetProjects\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.pdb
 C:\Users\marco\dotnetProjects\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.genruntimeconfig.cache
 C:\Users\marco\dotnetProjects\Expense Tracker\Expense Tracker\obj\Debug\net8.0\ref\Expense Tracker.dll
+C:\Users\marco\dotnetProjects\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.sourcelink.json
