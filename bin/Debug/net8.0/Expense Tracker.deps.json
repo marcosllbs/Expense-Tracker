@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore": "8.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.2",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.1"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.1",
+          "Syncfusion.EJ2.AspNet.Core": "24.2.7"
         },
         "runtime": {
           "Expense Tracker.dll": {}
@@ -1703,6 +1704,26 @@
           }
         }
       },
+      "Syncfusion.EJ2.AspNet.Core/24.2.7": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "Syncfusion.Licensing": "24.2.7"
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.EJ2.dll": {
+            "assemblyVersion": "24.2.7.0",
+            "fileVersion": "24.2.7.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/24.2.7": {
+        "runtime": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "24.2.7.0",
+            "fileVersion": "24.2.7.0"
+          }
+        }
+      },
       "System.CodeDom/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/System.CodeDom.dll": {
@@ -2883,6 +2904,20 @@
       "sha512": "sha512-T/igBDLXCd+pH3YTWgGVNvYSOwbwaT30NyyM9ONjvlHlmaUjKBJpr9kH0AeL+Ado4EJsBhU3qxXVc6lyrpRcMw==",
       "path": "nuget.versioning/6.3.1",
       "hashPath": "nuget.versioning.6.3.1.nupkg.sha512"
+    },
+    "Syncfusion.EJ2.AspNet.Core/24.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j9nfl0YGwOFEzq24Z3FtxdY2GhKcuht2IDs1VxQadDS87vQk1YrqxCkW4G/YnXjdvdHGIChhsJFEbv7e5xc/8g==",
+      "path": "syncfusion.ej2.aspnet.core/24.2.7",
+      "hashPath": "syncfusion.ej2.aspnet.core.24.2.7.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/24.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1r6Dea99RxfKT4m1t2D8wNS7QA5NJf0wDUhy/vQUZkVuSA5+S7ZUNIaf14KVac5mbc9re+sg0xvKUS9909pVew==",
+      "path": "syncfusion.licensing/24.2.7",
+      "hashPath": "syncfusion.licensing.24.2.7.nupkg.sha512"
     },
     "System.CodeDom/5.0.0": {
       "type": "package",
