@@ -22,6 +22,8 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectio
 
 builder.Services.AddControllersWithViews();
 
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NAaF1cXmhKYVFpR2Nbe053flFCal5YVBYiSV9jS3pTdEdnWHZadHZcTmVeVQ==");
+
 
 var app = builder.Build();
 
